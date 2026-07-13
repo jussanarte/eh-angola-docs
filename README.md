@@ -36,8 +36,8 @@ consumir a mesma API pública:
 | Componente | Descrição | Repositório |
 |---|---|---|
 | 🔧 **Backend (API)** | Laravel 12 · MySQL · Autenticação (Sanctum) · Tempo real (Reverb) · Geração de quizzes por IA | [Api-EH_Angola](https://github.com/IsabelMarques20231238/Api-EH_Angola) |
-| 🌐 **Aplicação Web** | Interface web que consome a API pública | *repositório em preparação* |
-| 📱 **Aplicação Mobile** | Flutter/Dart · consome a mesma API partilhada com a web | [eh-angola-mobile-app](https://github.com/Oldmar07/eh-angola-mobile-app) |
+| 🌐 **Aplicação Web** | Interface web que consome a API pública | [EH-Angola-Front](https://github.com/IsabelMarques20231238/EH-Angola-Front)  |
+| 📱 **Aplicação Mobile** | Flutter/Dart · consome a mesma API partilhada com a web | [eh-angola-mobile-app](https://github.com/IsabelMarques20231238/mobile-eh-angola) |
 
 A escolha de uma API única partilhada entre as duas aplicações cliente 
 garante que a lógica de negócio, as regras de autorização e o modelo 
